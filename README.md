@@ -38,8 +38,9 @@ Current **Master's Student in AI Development**. I specialize in building automat
 - 🤖 **AI Specialization (Branch):** Dedicated branch for my Master's in AI Development projects.
 
 **Current Projects**
-- **Condominio Lavanda:** Web application for residential management (Flask).
-- **Soccer League Manager:** Statistics and player tracking platform (React/Firebase).
+- ** **[AI Task Planner](https://github.com/NightRaid001/Smart_task_manager)** | Smart task decomposition using **Gemini 2.0 Flash**. Implements structured JSON outputs for seamless backend integration. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+- **Condominio Lavanda:** Web application for residential management (Flask). | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+- **Soccer League Manager:** Statistics and player tracking platform (React/Firebase). | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
 ---
 
